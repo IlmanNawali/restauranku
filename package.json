@@ -9,8 +9,8 @@
     "serve": "http-server dist",
     "test": "karma start",
     "e2e": "codeceptjs run --steps",
-    "start": "node server.js",
     "build-image": "node sharp.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
